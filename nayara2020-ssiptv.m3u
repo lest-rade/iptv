@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",CANAIS
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+http://ss.zeusplay.life/ssiptv/get/nayara2020/lukas2016/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",FILMES
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+http://ss.zeusplay.life/ssiptv/get/nayara2020/lukas2016/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/JCcgEeo.png",SÉRIES
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+http://ss.zeusplay.life/ssiptv/get/nayara2020/lukas2016/serie_categories/
